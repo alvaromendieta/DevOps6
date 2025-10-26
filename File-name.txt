@@ -1,1 +1,2 @@
 this file is for experiment 3 trial
+- The changes now is to compare for experiment3-
